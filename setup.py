@@ -86,7 +86,7 @@ setup(
     py_modules=['mypackage'],
 
     entry_points={
-        'console_scripts': ['mycli=mymodule:cli'],
+        'console_scripts': ['app=app:main'],
     },
     install_requires=REQUIRED,
     include_package_data=True,
