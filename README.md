@@ -1,6 +1,6 @@
-# python-cli-boilerplate
+# python-cli-template
 
-A boilerplate for building Python command line programs.
+A starting point for building Python Command Line Applications.
 
 ## About 
 
